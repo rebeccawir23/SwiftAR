@@ -4,7 +4,7 @@
 
 {
  "results": [
-{"name": "world", "Rule" : "hello", "imageUrl": "https://previews.123rf.com/images/jivarphoto/jivarphoto0611/jivarphoto061100026/611061-view-from-a-desk-facing-forward-and-lined-up-in-rows-to-keep-order-in-the-classroom-.jpg"}, 
+{"name": "world", "rule" : "hello", "imageUrl": "https://previews.123rf.com/images/jivarphoto/jivarphoto0611/jivarphoto061100026/611061-view-from-a-desk-facing-forward-and-lined-up-in-rows-to-keep-order-in-the-classroom-.jpg"}, 
 ]
 }
 
