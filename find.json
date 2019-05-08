@@ -1,11 +1,6 @@
-[
-  {
-    "name": "hello",
-    "rule" : "world",
-  },
-  {
-    "quote": "quote2",
-    "author" : "aut2",
-  }
-]
+{
+    "name": "Apple",
+    "rule": "Large",
+    "color": "Red"
+}
 
